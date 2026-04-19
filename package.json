@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "playwright": "^1.59.1",
+    "puppeteer": "^24.41.0",
+    "puppeteer-core": "^24.41.0",
+    "translate-google-api": "^1.0.4"
+  }
+}
